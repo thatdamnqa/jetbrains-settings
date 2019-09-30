@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../_posts/2019-09-30-checkbox-testing.markdown [thatdamnqa]'" />
+    <option name="defaultScopeName" value="File '.../_posts/2019-09-30-checkbox-testing.markdown [thatdamnqa]'" />
+    <option name="SEARCH_SCOPE" value="File '.../_posts/2019-09-30-checkbox-testing.markdown [thatdamnqa]'" />
   </component>
 </application>
